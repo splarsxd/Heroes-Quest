@@ -1,4 +1,4 @@
 # Heroes-Quest
 clean rpg game
 
-Supports: Windows
+Supports: Cross Platform (Windows, Mac and Linux.)
